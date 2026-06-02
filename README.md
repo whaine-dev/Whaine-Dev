@@ -49,4 +49,6 @@ Também estou em busca de uma oportunidade de estágio para adquirir experiênci
 ## **`🐍 Atividade no GitHub`**
 ![snake](https://raw.githubusercontent.com/whaine-dev/Whaine-Dev/main/dist/github-snake.svg)
 
+
+
   
