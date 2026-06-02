@@ -25,27 +25,11 @@ Também estou em busca de uma oportunidade de estágio para adquirir experiênci
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=whaine-dev&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=whaine-dev&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=whaine-dev&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=whaine-dev&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)![](https://streak-stats.demolab.com/?user=whaine-dev&theme=vision-friendly-dark&hide_border=false)<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=whaine-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=whaine-dev&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/whaine-dev/Whaine-Dev/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/whaine-dev/Whaine-Dev/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/whaine-dev/Whaine-Dev/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 ![snake](https://raw.githubusercontent.com/whaine-dev/Whaine-Dev/main/dist/github-snake.svg)
 
