@@ -9,3 +9,16 @@ Estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e
 Também estou em busca de uma oportunidade de estágio para adquirir experiência no mercado de tecnologia e pretendo ingressar em uma faculdade voltada para programação e desenvolvimento de software, ampliando ainda mais meus conhecimentos.
 
 **`Liguegens e Tecnologias`**
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=whaine-dev&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=whaine-dev&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=whaine-dev&show_icons=true" />
+</picture>
