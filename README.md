@@ -10,15 +10,41 @@ Também estou em busca de uma oportunidade de estágio para adquirir experiênci
 
 **`Liguegens e Tecnologias`**
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+##
+
+<div>
+  
+  <a href="https://www.linkedin.com/in/whaine-whaine-1a5326408/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:whaine.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=whaine-dev&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=whaine-dev&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=whaine-dev&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=whaine-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=whaine-dev&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/whaine-dev/Whaine-Dev/output/github-contribution-grid-snake-dark.svg"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=whaine-dev&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/whaine-dev/Whaine-Dev/output/github-contribution-grid-snake.svg"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=whaine-dev&show_icons=true" />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/whaine-dev/Whaine-Dev/output/github-contribution-grid-snake.svg"
+  />
 </picture>
+
+  
