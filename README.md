@@ -22,7 +22,9 @@ Também estou em busca de uma oportunidade de estágio para adquirir experiênci
 <div>
   
   <a href="https://www.linkedin.com/in/whaine-whaine-1a5326408/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:whaine.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="mailto:whaine.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
    <a href="https://www.chess.com/member/whaine_ofc" target="_blank">
   <img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chess.com&logoColor=white" target="_blank">
 </a>
