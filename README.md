@@ -1,8 +1,10 @@
 # **`🚀 Keven Whaine`**
 
-## **`💻 Estudante de Programção`**
+## **`💻 Estudante de Programação`**
 
-Atualmente estou construindo minha jornada na área de programação, dedicando meu tempo aos estudos por meio de cursos online, vídeos no YouTube, livros e projetos práticos. Utilizo este perfil para compartilhar minha evolução, registrar meu aprendizado e publicar projetos desenvolvidos durante essa caminhada.
+Meu nome é Keven Whaine e estou construindo minha jornada na área de programação.
+Dedico meu tempo aos estudos por meio de cursos online, vídeos, livros e projetos práticos, sempre buscando evoluir minhas habilidades.
+Uso este perfil para registrar minha evolução, compartilhar meu aprendizado e publicar os projetos que desenvolvo ao longo dessa caminhada.
 
 Estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e ganhar experiência prática através da programação. Cada projeto aqui representa um passo importante no meu desenvolvimento como futuro profissional da área.
 
