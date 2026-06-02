@@ -38,11 +38,9 @@ Também estou em busca de uma oportunidade de estágio para adquirir experiênci
 
 <div align="center">
 
-  <img height="170em" src="https://github-readme-stats.shion.dev/api?username=whaine-dev&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false"/><br>
-  
-  <img height="155em" src="https://streak-stats.demolab.com/?user=whaine-dev&theme=vision-friendly-dark&hide_border=false"/><br>
-  
-  <img height="185em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=whaine-dev&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  |  |  |  |
+|:-:|:-:|:-:|
+| <img height="190em" src="https://github-readme-stats.shion.dev/api?username=whaine-dev&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false"/> | <img height="190em" src="https://streak-stats.demolab.com/?user=whaine-dev&theme=vision-friendly-dark&hide_border=false"/> | <img height="190em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=whaine-dev&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> |
 
 </div>
 
