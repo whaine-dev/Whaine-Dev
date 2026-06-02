@@ -47,6 +47,6 @@ Também estou em busca de uma oportunidade de estágio para adquirir experiênci
   />
 </picture>
 
-![snake](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/dist/github-snake.svg)
+![snake](https://raw.githubusercontent.com/whaine-dev/Whaine-Dev/main/dist/github-snake.svg)
 
   
