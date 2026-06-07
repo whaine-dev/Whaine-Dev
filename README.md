@@ -12,11 +12,11 @@ Também estou em busca de uma oportunidade de estágio para adquirir experiênci
 
 ## **`Liguegens e Tecnologias`**
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block; background:#161B22; padding:8px;border-radius:8px;"><br>
   <img align="center" alt="whaine-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="whaine-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="whaine-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="whaine-Python" height="30" width="40" src="">
+  <img align="center" alt="whaine-Python" height="30" width="40" src="assets/rust-original-laranja.svg">
 </div>
 
 ##
