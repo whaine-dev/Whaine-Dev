@@ -20,8 +20,10 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#3E6AFD&palette=github-dark
-            dist/github-snake-dark.svg?color_snake=#3E6AFD&palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg
+          color_snake: "#3E6AFD"
+          palette: github-dark
 
       - name: Commit snake
         uses: EndBug/add-and-commit@v9
