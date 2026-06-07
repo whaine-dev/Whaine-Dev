@@ -1,4 +1,4 @@
-# **`🚀 Keven Whaine`**
+# **`🚀 Keven Whaine`** <p align="right"><img src="https://komarev.com/ghpvc/?username=whaine-dev&color=3C67F5" /></p>
 
 ## **`💻 Estudante de Programação`**
 <div>
@@ -59,10 +59,6 @@ Uso este perfil para registrar minha evolução, compartilhar meu aprendizado e 
 <a href="https://web.dio.me">
   <img src="https://assets.dio.me/vb6CnsO_LdHEe6kl3Du0Mhhss64DQIVv6DvNOEsOAKU/f:webp/h:120/q:80/L3RyYWNrcy9hYTY3Y2Q5Yy1kYTIyLTRhYzAtODU0OS1lYWVmMjBiOTY1NWYucG5n" width="90">
 </a>
-
-##
-
-[![](https://komarev.com/ghpvc/?username=whaine-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
