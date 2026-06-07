@@ -15,27 +15,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate snake (dark)
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate snake dark theme
-        uses: Platane/snk@v3
+      - name: Generate snake (dark only)
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake-dark.svg
-          theme: github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit snake
         uses: EndBug/add-and-commit@v9
         with:
-          message: "🐍 update snake"
+          message: "🐍 update snake dark"
           add: "dist/*"
