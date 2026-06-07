@@ -8,7 +8,7 @@ Uso este perfil para registrar minha evolução, compartilhar meu aprendizado e 
 
 <P>Estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e ganhar experiência prática através da programação. Cada projeto aqui representa um passo importante no meu desenvolvimento como futuro profissional da área.</P>
 
-<p.Também estou em busca de uma oportunidade de estágio para adquirir experiência no mercado de tecnologia e pretendo ingressar em uma faculdade voltada para programação e desenvolvimento de software, ampliando ainda mais meus conhecimentos.</p>
+<p>Também estou em busca de uma oportunidade de estágio para adquirir experiência no mercado de tecnologia e pretendo ingressar em uma faculdade voltada para programação e desenvolvimento de software, ampliando ainda mais meus conhecimentos.</p>
 </div>
 
 ## **`Liguegens e Tecnologias`**
