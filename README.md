@@ -10,6 +10,7 @@ Uso este perfil para registrar minha evolução, compartilhar meu aprendizado e 
 
 <p.Também estou em busca de uma oportunidade de estágio para adquirir experiência no mercado de tecnologia e pretendo ingressar em uma faculdade voltada para programação e desenvolvimento de software, ampliando ainda mais meus conhecimentos.</p>
 </div>
+
 ## **`Liguegens e Tecnologias`**
 
 <div style="display: inline_block; background:#161B22; padding:8px;border-radius:8px;"><br>
