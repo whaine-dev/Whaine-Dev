@@ -25,13 +25,12 @@ Uso este perfil para registrar minha evolução, compartilhar meu aprendizado e 
 ## **`💼 Vamos nos conectar`**
 <div>
   
-  <a href="https://www.linkedin.com/in/whaine-whaine-1a5326408/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="mailto:whaine.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-   <a href="https://www.chess.com/member/whaine_ofc" target="_blank">
-  <img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chess.com&logoColor=#86080B" target="_blank">
-</a>
+  <a href="https://www.linkedin.com/in/whaine-whaine-1a5326408/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:whaine.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.chess.com/member/whaine_ofc" target="_blank">
+    <img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chess.com&logoColor=#86080B" target="_blank"></a>
 </div>
 
 <br>
@@ -41,8 +40,14 @@ Uso este perfil para registrar minha evolução, compartilhar meu aprendizado e 
 <div align="center">
 
 
-<img height="190em" src="https://github-readme-stats.shion.dev/api?username=whaine-dev&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false"/> <img height="190em" src="https://streak-stats.demolab.com/?user=whaine-dev&theme=vision-friendly-dark&hide_border=false"/> <img height="190em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=whaine-dev&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=whaine-dev&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=whaine-dev&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=whaine-dev&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 
 ## **`🐍 Atividade no GitHub`**
@@ -55,6 +60,9 @@ Uso este perfil para registrar minha evolução, compartilhar meu aprendizado e 
   <img src="https://assets.dio.me/vb6CnsO_LdHEe6kl3Du0Mhhss64DQIVv6DvNOEsOAKU/f:webp/h:120/q:80/L3RyYWNrcy9hYTY3Y2Q5Yy1kYTIyLTRhYzAtODU0OS1lYWVmMjBiOTY1NWYucG5n" width="90">
 </a>
 
+##
+
+[![](https://komarev.com/ghpvc/?username=whaine-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
