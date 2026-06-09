@@ -56,9 +56,20 @@ Uso este perfil para registrar minha evolução, compartilhar meu aprendizado e 
 
 ## 🎓 Atualmente Estudando
 
-<a href="https://web.dio.me">
-  <img src="https://assets.dio.me/vb6CnsO_LdHEe6kl3Du0Mhhss64DQIVv6DvNOEsOAKU/f:webp/h:120/q:80/L3RyYWNrcy9hYTY3Y2Q5Yy1kYTIyLTRhYzAtODU0OS1lYWVmMjBiOTY1NWYucG5n" width="90">
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://web.dio.me">
+        <img src="https://assets.dio.me/vb6CnsO_LdHEe6kl3Du0Mhhss64DQIVv6DvNOEsOAKU/f:webp/h:120/q:80/L3RyYWNrcy9hYTY3Y2Q5Yy1kYTIyLTRhYzAtODU0OS1lYWVmMjBiOTY1NWYucG5n" width="90">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://web.dio.me">
+        <img src="https://assets.dio.me/W6Z-2zohBDfZ1U1ULeJJwYyLxaWHmP7FuTtB4rMqRyY/f:webp/h:120/q:80/L3RyYWNrcy8xNTU1ODQ2Ny02YjgxLTQ3ODAtODQzOS02N2EyZjU0NjBmMjgucG5n" width="90">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
