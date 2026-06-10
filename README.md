@@ -8,7 +8,7 @@
 
 ## **`💻 Estudante de Programação`**
 <div>
-<p>Olá tudo ben? estou construindo minha jornada na área de programação.
+<p>Olá tudo bem? estou construindo minha jornada na área de programação.
 Dedico meu tempo aos estudos por meio de cursos online, vídeos, livros e projetos práticos, sempre buscando evoluir minhas habilidades.
 Uso este perfil para registrar minha evolução, compartilhar meu aprendizado e publicar os projetos que desenvolvo ao longo dessa caminhada.</p>
 
