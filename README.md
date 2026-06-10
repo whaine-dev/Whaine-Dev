@@ -36,7 +36,11 @@ Uso este perfil para registrar minha evolução, compartilhar meu aprendizado e 
   <a href="mailto:whaine.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.chess.com/member/whaine_ofc" target="_blank">
-    <img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chess.com&logoColor=#86080B" target="_blank"></a>
+    <img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess.com"></a>
+    <a href="https://www.xbox.com/pt-BR/play/user/Whaineofc" target="_blank">
+  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox">
+</a>
+
 </div>
 
 <br>
