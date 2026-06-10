@@ -1,8 +1,14 @@
-# **`🚀 Keven Whaine`** <p align="right"><img src="https://komarev.com/ghpvc/?username=whaine-dev&color=3C67F5" /></p>
+<img src="https://i.pinimg.com/1200x/d7/a0/e0/d7a0e07686e15945172b31787f08ce77.jpg">
+
+<div align="center">
+   <h1> hi thene, I'm Whaine </h1>
+</div>
+
+<p align="right"><img src="https://komarev.com/ghpvc/?username=whaine-dev&color=3C67F5" /></p>
 
 ## **`💻 Estudante de Programação`**
 <div>
-<p>Meu nome é Keven Whaine e estou construindo minha jornada na área de programação.
+<p>Olá tudo ben? estou construindo minha jornada na área de programação.
 Dedico meu tempo aos estudos por meio de cursos online, vídeos, livros e projetos práticos, sempre buscando evoluir minhas habilidades.
 Uso este perfil para registrar minha evolução, compartilhar meu aprendizado e publicar os projetos que desenvolvo ao longo dessa caminhada.</p>
 
