@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/1200x/d7/a0/e0/d7a0e07686e15945172b31787f08ce77.jpg">
 
 <div align="center">
-   <h1> hi thene, I'm Whaine </h1>
+   <h1> hi thene, I'm Whaine 👋</h1>
 </div>
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=whaine-dev&color=3C67F5" /></p>
