@@ -1,30 +1,29 @@
-name: Generate Snake
+name: Generate Commit Invaders
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 0 * * 0"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate snake
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Commit Invaders
+        uses: Goblinlordx/commit-invaders@v1
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?color_snake=#3E6BFF&palette=github-dark
-            dist/github-snake-dark.svg?color_snake=#3E6BFF&palette=github-dark
 
-      - name: Commit snake
+      - name: Commit to output branch
         uses: EndBug/add-and-commit@v9
         with:
-          message: "🐍 update snake"
-          add: "dist/*"
+          message: "👾 update commit invaders"
+          add: "*.svg"
+          new_branch: output
+          push: "origin output --force"
