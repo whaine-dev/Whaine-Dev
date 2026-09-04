@@ -60,7 +60,11 @@ Uso este perfil para registrar minha evolução, compartilhar meu aprendizado e 
 </div>
 
 ## **`🐍 Atividade no GitHub`**
-![Commit Invaders](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/commit-invaders.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/commit-invaders-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/commit-invaders.svg">
+  <img alt="Commit Invaders" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/commit-invaders.svg" width="100%">
+</picture>
 
 
 ## 🎓 Atualmente Estudando
