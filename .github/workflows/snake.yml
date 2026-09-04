@@ -2,28 +2,17 @@ name: Generate Commit Invaders
 
 on:
   schedule:
-    - cron: "0 0 * * 0"
+    - cron: '0 0 * * 0'
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
-
-      - name: Generate Commit Invaders
-        uses: Goblinlordx/commit-invaders@v1
+      - uses: Goblinlordx/commit-invaders@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           github_user_name: ${{ github.repository_owner }}
-
-      - name: Commit to output branch
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "👾 update commit invaders"
-          add: "*.svg"
-          new_branch: output
-          push: "origin output --force"
