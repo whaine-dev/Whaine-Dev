@@ -59,7 +59,7 @@ Uso este perfil para registrar minha evolução, compartilhar meu aprendizado e 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 
-## **`🐍 Atividade no GitHub`**
+## **`👾 Atividade no GitHub`**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whaine-dev/Whaine-Dev/output/commit-invaders-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whaine-dev/Whaine-Dev/output/commit-invaders.svg">
