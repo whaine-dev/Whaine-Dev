@@ -1,4 +1,4 @@
-<img src="https://github.com/whaine-dev/Whaine-Dev/blob/main/assets/hello_world.png">
+<img src="https://github.com/whaine-dev/Whaine-Dev/blob/main/assets/img_git.jpeg">
 
 <div align="center">
    <h1> hi thene, I'm Whaine 👋</h1>
