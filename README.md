@@ -1,7 +1,7 @@
 <img src="https://github.com/whaine-dev/Whaine-Dev/blob/main/assets/img_git.jpeg">
 
 <div align="center">
-   <h1> hi thene, I'm Whaine 👋</h1>
+   <h1> hi thene, I'm Whaine! 👋</h1>
 </div>
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=whaine-dev&color=3C67F5" /></p>
