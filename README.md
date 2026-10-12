@@ -35,7 +35,7 @@ Uso este perfil para registrar minha evolução, compartilhar meu aprendizado e 
 <div>
   
   <a href="https://www.linkedin.com/in/whaine-whaine-1a5326408/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
   <a href="mailto:whaine.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.chess.com/member/whaine_ofc" target="_blank">
