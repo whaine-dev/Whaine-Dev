@@ -58,7 +58,9 @@ Uso este perfil para registrar minha evolução, compartilhar meu aprendizado e 
 
 ![](https://streak-stats.demolab.com/?user=whaine-dev&theme=shadow_blue&hide_border=false&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=whaine-dev&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=whaine-dev&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact&text_color=FFFFFF)
+
 
 ---
 
