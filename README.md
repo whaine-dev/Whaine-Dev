@@ -52,6 +52,9 @@ Uso este perfil para registrar minha evolução, compartilhar meu aprendizado e 
 
 <div align="center">
 
+
+![Whaine Dev's GitHub Stats](https://github-stats-extended.vercel.app/api/?username=whaine-dev&show_icons=true&include_all_commits=true&custom_title=Whaine%20Dev%27s%20GitHub%20Stats&bg_color=0D1117&title_color=008FB3&text_color=C9D1D9&icon_color=008C9E&border_color=0066AA&ring_color=008C9E&rank_icon=github&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+
 ![](https://github-readme-stats.shion.dev/api?username=whaine-dev&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=whaine-dev&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=whaine-dev&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
