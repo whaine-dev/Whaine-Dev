@@ -1,8 +1,12 @@
 <img src="https://github.com/whaine-dev/Whaine-Dev/blob/main/assets/img_git.jpeg">
 
 <div align="center">
-   <h1> hi thene, I'm Whaine! 👋</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2D68F7&multiline=true&width=435&lines=I%E2%80%99m+Whaine%2C+a+student+of;Software+Development+Analysis.)](https://git.io/typing-svg)
+
 </div>
+
+
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=whaine-dev&color=3C67F5" /></p>
 
